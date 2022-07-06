@@ -8,7 +8,7 @@ add_executable(Lesson_2
 target_compile_features(Lesson_2 PUBLIC cxx_std_20)
 
 if(MSVC)
-    target_compile_options(Lesson_2 PUBLIC /W4 /WX)
+    target_compile_options(Lesson_2 PUBLIC /W3 /WX)
 else()
     target_compile_options(Lesson_2 PUBLIC -Wall -Wextra -Werror -pedantic)
 endif()
