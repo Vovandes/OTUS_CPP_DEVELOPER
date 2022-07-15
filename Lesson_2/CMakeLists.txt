@@ -1,14 +1,14 @@
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.15)
 
-project(Lesson_2 CXX)
+project(CMakeProject3_Game_guess_the_number)
 
-add_executable(Lesson_2 
-    "Source.cpp")
+add_executable(CMakeProject3_Game_guess_the_number
+        "Source.cpp")
 
-target_compile_features(Lesson_2 PUBLIC cxx_std_20)
+target_compile_features(CMakeProject3_Game_guess_the_number PUBLIC cxx_std_20)
 
 if(MSVC)
-    target_compile_options(Lesson_2 PUBLIC /W3 /WX)
+    target_compile_options(CMakeProject3_Game_guess_the_number PUBLIC /W4 /WX)
 else()
-    target_compile_options(Lesson_2 PUBLIC -Wall -Wextra -Werror -pedantic)
+    target_compile_options(CMakeProject3_Game_guess_the_number PUBLIC -Wall -Wextra -Werror -pedantic)
 endif()
