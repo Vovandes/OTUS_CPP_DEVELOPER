@@ -1,0 +1,2 @@
+ This 12 34 is a simple example of file output
+ One more line
