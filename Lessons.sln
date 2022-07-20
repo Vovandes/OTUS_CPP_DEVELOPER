@@ -7,6 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_3", "Lesson_3\Lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_2", "Lesson_2\Lesson_2.vcxproj", "{47C56023-0088-4855-94EA-33F479892136}"
 EndProject
+<<<<<<< Updated upstream
+=======
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_5", "Lesson_5\Lesson_5.vcxproj", "{358D763D-5CD3-40CE-BE57-64102D8A8101}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_6", "Lesson_6\Lesson_6.vcxproj", "{BEB58235-9320-49B8-A878-A7F7752885D7}"
+EndProject
+>>>>>>> Stashed changes
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +38,41 @@ Global
 		{47C56023-0088-4855-94EA-33F479892136}.Release|x64.Build.0 = Release|x64
 		{47C56023-0088-4855-94EA-33F479892136}.Release|x86.ActiveCfg = Release|Win32
 		{47C56023-0088-4855-94EA-33F479892136}.Release|x86.Build.0 = Release|Win32
+<<<<<<< Updated upstream
+=======
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|ARM.ActiveCfg = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|ARM.Build.0 = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|ARM64.ActiveCfg = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|ARM64.Build.0 = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|x64.ActiveCfg = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|x64.Build.0 = Debug|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|x86.ActiveCfg = Debug|Win32
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Debug|x86.Build.0 = Debug|Win32
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|ARM.ActiveCfg = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|ARM.Build.0 = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|ARM64.ActiveCfg = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|ARM64.Build.0 = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|x64.ActiveCfg = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|x64.Build.0 = Release|x64
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|x86.ActiveCfg = Release|Win32
+		{358D763D-5CD3-40CE-BE57-64102D8A8101}.Release|x86.Build.0 = Release|Win32
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|ARM.ActiveCfg = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|ARM.Build.0 = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|ARM64.ActiveCfg = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|ARM64.Build.0 = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|x64.ActiveCfg = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|x64.Build.0 = Debug|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Debug|x86.Build.0 = Debug|Win32
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|ARM.ActiveCfg = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|ARM.Build.0 = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|ARM64.ActiveCfg = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|ARM64.Build.0 = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|x64.ActiveCfg = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|x64.Build.0 = Release|x64
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|x86.ActiveCfg = Release|Win32
+		{BEB58235-9320-49B8-A878-A7F7752885D7}.Release|x86.Build.0 = Release|Win32
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
